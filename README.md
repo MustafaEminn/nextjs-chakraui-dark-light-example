@@ -8,7 +8,7 @@
 
 # Demo
 
-https://nextjs-chakraui-dark-light-evu4rpqk1.vercel.app/
+https://nextjs-chakraui-dark-light-example.vercel.app/
 
 
 ## Usage
